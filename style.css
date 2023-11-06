@@ -350,3 +350,46 @@ li:last-child {
 }
 
 
+/* TICKETS STYLE */
+.venta {
+    color: rgb(71, 71, 71);
+    margin-top: 3%;
+}
+
+.valorTicket {
+    text-align: center;
+    color: black;
+}
+
+.tituloCard {
+    text-align: center;
+}
+
+.documentacion {
+    text-align: center;
+}
+
+#discount p {
+    text-align: center;
+}
+
+#discount .tituloCard {
+    text-align: center;
+    font-weight: bold;
+}
+
+#totalPagar {
+    margin-top: 10px;
+    margin-bottom: 8px;
+    background-color: #b3bdeb;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#email {
+    margin-bottom: 8px;
+}
+
+#formButton {
+    margin-bottom: 10px;
+}
